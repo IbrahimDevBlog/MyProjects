@@ -351,7 +351,7 @@ alert( "Mul=" + calculator.mul() );
 
 //уже намного понятнее, прогресс
 
-
+/*
 function Accumulator(startingValue) {
   this.value = startingValue;
 
@@ -366,7 +366,7 @@ accumulator.read();
 accumulator.read();
 
 alert(accumulator.value);
-
+*/
 
 
 /*
